@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 
 const projects = [
-  { name: "sua-agenda-lotada", url: "https://sua-agenda-lotada.vercel.app/" },
   { name: "anastasiaestetica", url: "https://anastasiaestetica.com.br/" },
   { name: "trafegosupremo", url: "https://trafegosupremo.com.br/" },
   { name: "modasglow", url: "http://modasglow.com/" },
@@ -10,6 +9,8 @@ const projects = [
   { name: "zeusadvogados", url: "https://zeusadvogados.com.br/" },
   { name: "amoreljoias", url: "https://amoreljoias.com.br/" },
   { name: "portaludi", url: "https://portaludi.com.br/" },
+  { name: "sua-agenda-lotada", url: "https://sua-agenda-lotada.vercel.app/" },
+  { name: "loja-duas-irmas", url: "https://loja-duas-irmass.vercel.app/" },
 ];
 
 const destDir = path.join(__dirname, 'public', 'portfolio');

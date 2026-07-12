@@ -68,14 +68,14 @@ const projects = [
     url: "https://orion-clinica.netlify.app/",
   },
   {
-    title: "Loja Duas Irmãs",
-    image: "/portfolio/loja-duas-irmas.webp",
-    url: "https://loja-duas-irmass.vercel.app/",
-  },
-  {
     title: "Sua Agenda Lotada",
     image: "/portfolio/sua-agenda-lotada.jpg",
     url: "https://sua-agenda-lotada.vercel.app/",
+  },
+  {
+    title: "Loja Duas Irmãs",
+    image: "/portfolio/loja-duas-irmas.png",
+    url: "https://loja-duas-irmass.vercel.app/",
   },
 ];
 
@@ -141,7 +141,7 @@ export default function Portfolio() {
             viewport={{ once: true }}
           >
             <a
-              href="https://wa.me/5543999044974"
+              href="https://wa.me/5543996550891"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 bg-[#228A09] hover:bg-[#1a6a07] text-white px-8 py-4 rounded-full font-bold text-lg transition-all transform hover:scale-105 shadow-lg shadow-green-900/20"
