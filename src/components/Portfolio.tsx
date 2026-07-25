@@ -69,7 +69,7 @@ const projects = [
   },
   {
     title: "Sua Agenda Lotada",
-    image: "/portfolio/sua-agenda-lotada.jpg",
+    image: "/portfolio/sua-agenda-lotada.webp",
     url: "https://sua-agenda-lotada.vercel.app/",
   },
   {
@@ -79,7 +79,7 @@ const projects = [
   },
   {
     title: "Floricultura Coroas",
-    image: "/portfolio/floricultura-coroas.jpg",
+    image: "/portfolio/floricultura-coroas-v2.webp",
     url: "https://floricultura-coroass.vercel.app/",
   },
 ];
